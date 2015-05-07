@@ -1,0 +1,8 @@
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Customers Simulation\Customers Simulation\bin\Release\Customers Simulation.exe.config
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Customers Simulation\Customers Simulation\bin\Release\Customers Simulation.exe
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Customers Simulation\Customers Simulation\bin\Release\Customers Simulation.pdb
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Customers Simulation\Customers Simulation\obj\Release\Customers_Simulation.Form1.resources
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Customers Simulation\Customers Simulation\obj\Release\Customers_Simulation.Properties.Resources.resources
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Customers Simulation\Customers Simulation\obj\Release\Customers Simulation.csproj.GenerateResource.Cache
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Customers Simulation\Customers Simulation\obj\Release\Customers Simulation.exe
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Customers Simulation\Customers Simulation\obj\Release\Customers Simulation.pdb
